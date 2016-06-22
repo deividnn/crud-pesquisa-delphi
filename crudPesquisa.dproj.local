@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/04/13 14:33:03.000.903,=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2016/04/13 17:13:16.000.742,=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2016/05/03 15:28:53.000.027,=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2016/05/03 15:57:52.000.056,=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2016/06/08 17:52:04.000.977,=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2016/06/21 15:47:06.000.575,=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2016/06/21 15:50:54.000.026,C:\Users\criare\Documents\Embarcadero\Studio\Projects\Unit4.pas=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Nova pasta (32)\Unit4.pas</Transaction>
+    <Transaction>2016/06/21 15:50:54.000.026,C:\Users\criare\Documents\Embarcadero\Studio\Projects\Unit4.dfm=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Nova pasta (32)\Unit4.dfm</Transaction>
+    <Transaction>2016/06/21 15:50:55.000.665,C:\Users\criare\Documents\Embarcadero\Studio\Projects\Project4.dproj=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Nova pasta (32)\Project4.dproj</Transaction>
+    <Transaction>2016/06/21 15:51:58.000.463,=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Nova pasta (32)\Unit1.pas</Transaction>
+    <Transaction>2016/06/21 17:05:35.000.221,=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Nova pasta (32)\Unit2.pas</Transaction>
+    <Transaction>2016/06/22 08:14:00.831,C:\Users\criare\Documents\Embarcadero\Studio\Projects\Nova pasta (32)\crudPesquisa.dproj=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Nova pasta (32)\Project4.dproj</Transaction>
+    <Transaction>2016/06/22 08:14:35.311,C:\Users\criare\Documents\Embarcadero\Studio\Projects\Nova pasta (32)\uPrincipal.pas=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Nova pasta (32)\Unit4.pas</Transaction>
+    <Transaction>2016/06/22 08:14:35.311,C:\Users\criare\Documents\Embarcadero\Studio\Projects\Nova pasta (32)\uPrincipal.dfm=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Nova pasta (32)\Unit4.dfm</Transaction>
+    <Transaction>2016/06/22 08:15:00.216,C:\Users\criare\Documents\Embarcadero\Studio\Projects\Nova pasta (32)\uEdita.pas=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Nova pasta (32)\Unit2.pas</Transaction>
+    <Transaction>2016/06/22 08:15:00.216,C:\Users\criare\Documents\Embarcadero\Studio\Projects\Nova pasta (32)\uEdita.dfm=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Nova pasta (32)\Unit2.dfm</Transaction>
+    <Transaction>2016/06/22 08:15:24.999,C:\Users\criare\Documents\Embarcadero\Studio\Projects\Nova pasta (32)\uDm.dfm=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Nova pasta (32)\Unit1.dfm</Transaction>
+    <Transaction>2016/06/22 08:15:24.999,C:\Users\criare\Documents\Embarcadero\Studio\Projects\Nova pasta (32)\uDm.pas=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Nova pasta (32)\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
